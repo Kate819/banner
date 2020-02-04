@@ -33,6 +33,6 @@ html {
 .banner-content {
   color: white;
   position: absolute;
-  left: 5%;
-  top: 10%;
+  left: 0;
+  bottom: 0;
 }
